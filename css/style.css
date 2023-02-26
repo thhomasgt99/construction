@@ -516,6 +516,9 @@ footer hr {
         grid-template-columns: 1fr;
         grid-gap: 2rem;
     }
+    footer {
+        height: 100%;
+    }
 }
 
 @media screen and (min-width: 1280px) {
