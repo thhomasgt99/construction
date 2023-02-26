@@ -52,7 +52,7 @@ main {
 .menu {
     z-index: 5;
     position: absolute;
-    top: 150px;
+    top: 280px;
     left: 0;
     background-color: #212121;
     width: 100%;
