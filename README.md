@@ -1,8 +1,8 @@
-# `Glasses Shop`
+# `COSTRUCTION`
 ---
 ### `Descripción`
-- Glasses Shop es un layout para una tienda virtual.
-- Contiene un *slider* horizontal hecho con JavaScript *vanilla* para presentar algunas imágenes de los productos.
+- Pagina web de construcción.
+- Contiene un *slider* horizontal hecho con JavaScript *vanilla* para presentar algunas imagenes.
 ---
 
 ### `Tecnologías`
@@ -12,4 +12,4 @@
 ---
 
 ### `URL del proyecto`
-- [Glasses Shop](https://thhomasgt99.github.io/pagina-gafass/)
+- [COSTRUCTION](https://thhomasgt99.github.io/construction/)
